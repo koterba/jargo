@@ -4,10 +4,11 @@
 OR
 
 1. cross compile using ``GOOS=linux GOARCH=arm64 go build .``
+  
 
-2. move binary to swiftbot if you are cross compiling
-3. run ``chmod +x jargo`` to make the binary executable
-4. run ``sudo mv jargo /usr/local/bin`` to move binary to PATH
+3. move binary to swiftbot if you are cross compiling
+4. run ``chmod +x jargo`` to make the binary executable
+5. run ``sudo mv jargo /usr/local/bin`` to move binary to PATH
 
 ## Use
 
