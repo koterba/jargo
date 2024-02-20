@@ -1,5 +1,5 @@
 ## Installation
-1. Download it to the swiftbot/rpi ``wget --content-disposition https://github.com/koterba/jargo/releases/download/v0.1/jargo``
+1. Run this command on the swiftbot/rpi to download the binary ``wget --content-disposition https://github.com/koterba/jargo/releases/download/v0.1/jargo``
 
 OR
 
